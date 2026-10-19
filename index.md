@@ -49,8 +49,8 @@ nombres y montos que usted cargó.
 ## 4. Almacenamiento local de preferencias
 
 La app guarda en su dispositivo dos contadores numéricos, solo para decidir cada
-cuántas acciones mostrar un anuncio de pantalla completa. No contienen datos
-personales.
+cuántas acciones mostrar un anuncio de pantalla completa, y el idioma que usted
+elija dentro de la app. No contienen datos personales.
 
 ## 5. Publicidad (Google AdMob)
 

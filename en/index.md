@@ -49,7 +49,8 @@ Keep in mind that the summary includes the names and amounts you entered.
 ## 4. Local storage of preferences
 
 The app stores two numeric counters on your device, only to decide how many
-actions to wait before showing a full-screen ad. They contain no personal data.
+actions to wait before showing a full-screen ad, and the language you choose
+inside the app. They contain no personal data.
 
 ## 5. Advertising (Google AdMob)
 
