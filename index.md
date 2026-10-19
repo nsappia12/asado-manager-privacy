@@ -4,6 +4,8 @@ title: Política de privacidad - Asado Manager
 
 # Política de privacidad de Asado Manager
 
+[English version](en/)
+
 **Última actualización:** 16 de octubre de 2026
 
 Asado Manager ("la app") es una aplicación para organizar asados y repartir los
